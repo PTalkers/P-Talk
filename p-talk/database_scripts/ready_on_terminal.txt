@@ -1,0 +1,2 @@
+#CREA/RESETTA DB:
+mysql -u root -p < /home/ogar/Documents/development/p-talk/database_scripts/creaDB.sql
